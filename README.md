@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Igor Oliveira</h1>
 <h3 align="center">Jr Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorramondev&label=Profile%20views&color=0e75b6&style=flat" alt="igorramondev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igorramondev" alt="igorramondev" /></a> </p>
-
-- 🔭 I’m currently working on [auto login](https://github.com/igorRamonDev/auto-login)
+- 🔭 I’m currently working on **Auto Login**
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/igorRamonDev](https://github.com/igorRamonDev)
+- 👨‍💻 All of my projects are available at **[https://github.com/igorRamonDev](https://github.com/igorRamonDev)**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/igor-ramon-castro-de-oliveira-652bab145/](https://www.linkedin.com/in/igor-ramon-castro-de-oliveira-652bab145/)
 
 - 📫 How to reach me **igorramoncastro@gmail.com**
 
-- ⚡ Fun fact **VASCO DA GAMA!**
+- ⚡ Fun fact **VASCO DA GAMA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
