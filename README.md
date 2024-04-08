@@ -1,18 +1,18 @@
-c<h1 align="center">Hi 👋, I'm Igor Oliveira</h1>
-<h3 align="center">Jr Developer</h3>
+c<h1 align="center">Hi, I'm Igor Oliveira</h1>
+<h3 align="center">Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Auto Login**
+- I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **Python**
+- I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/igorRamonDev](https://github.com/igorRamonDev)**
+- All of my projects are available at **[https://github.com/igorRamonDev](https://github.com/igorRamonDev)**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/igor-ramon-castro-de-oliveira-652bab145/](https://www.linkedin.com/in/igor-ramon-castro-de-oliveira-652bab145/)
+- I regularly write articles on [https://www.linkedin.com/in/igor-ramon-castro-de-oliveira-652bab145/](https://www.linkedin.com/in/igor-ramon-castro-de-oliveira-652bab145/)
 
-- 📫 How to reach me **igorramoncastro@gmail.com**
+- How to reach me **igorramoncastro@gmail.com**
 
-- ⚡ Fun fact **VASCO DA GAMA**
+- Fun fact **VASCO DA GAMA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
