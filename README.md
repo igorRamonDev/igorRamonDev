@@ -8,7 +8,7 @@
 
 - All of my projects are available at **[Github](https://github.com/igorRamonDev)**
 
-- I regularly write articles on [Beacons](https://beacons.ai/igorramondev)
+- My sites [Beacons](https://beacons.ai/igorramondev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
