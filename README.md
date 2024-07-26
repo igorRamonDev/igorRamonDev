@@ -6,11 +6,9 @@
 
 - I’m currently learning **Python**
 
-- All of my projects are available at **[https://github.com/igorRamonDev](https://github.com/igorRamonDev)**
+- All of my projects are available at **[Github](https://github.com/igorRamonDev)**
 
-- I regularly write articles on [https://www.linkedin.com/in/igor-ramon-castro-de-oliveira-652bab145/](https://www.linkedin.com/in/igor-ramon-castro-de-oliveira-652bab145/)
-
-- How to reach me **igorramoncastro@gmail.com**
+- I regularly write articles on [Beacons](https://beacons.ai/igorramondev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
