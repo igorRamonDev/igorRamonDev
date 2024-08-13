@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Igor Oliveira</h1>
+<h1 align="center">Hi, I'm igorRamonDev</h1>
 <h3 align="center">Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- I’m currently working on **personal projects**
 
-- I’m currently learning **Python**
 
-- All of my projects are available at **[Github](https://github.com/igorRamonDev)**
+- I’m currently learning **full stack skills**
 
-- My sites [Beacons](https://beacons.ai/igorramondev)
+- My [Beacons](https://beacons.ai/igorramondev)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
