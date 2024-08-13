@@ -6,7 +6,6 @@
 
 - I’m currently learning **full stack skills**
 
-<br>
 
 <h3 align="left">main languages:</h3>
 <p align="left"></p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -20,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorramondev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="igorramondev" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=igorramondev&show_icons=true&locale=en&theme=tokyonight" alt="igorramondev" <br>/> </p>
-
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=igorramondev&show_icons=true&locale=en&theme=tokyonight" alt="igorramondev"/> </p>
+<br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=igorramondev&&theme=tokyonight" alt="igorramondev" /></p>
