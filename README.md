@@ -2,13 +2,13 @@
 <h3 align="center">Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
+<br>
 
 - I’m currently learning **full stack skills**
 
 - My [Beacons](https://beacons.ai/igorramondev)
 
-
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
