@@ -4,7 +4,7 @@
 
 <br>
 
-- I’m currently learning **full stack skills**
+- I’m currently learning **full stack skills at Cubos Academy**
 
 <br>
 
