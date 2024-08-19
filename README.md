@@ -1,6 +1,6 @@
 <h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=F711E2&background=FFFFFF00&center=true&vCenter=true&width=435&lines=igorRamonDev" alt="Typing SVG" /></h1>
 <h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=F711E2&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></h3>
-<p align="center">- I´m currently learning <strong>full stack skills</strong> at Cubos Academy</p>
+<p align="center">I´m currently learning <strong>full stack skills</strong> at Cubos Academy</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=igorramondev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="150" alt="stats graph"/>
