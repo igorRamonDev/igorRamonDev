@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZmbHhscDUzOWc1bXZ2M2xkcDVrZHl1Y3FybmdoajJseG9hZjMxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giKklFontfveZrNXjz/giphy.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)"/>
+<img align="right" height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ###
 
