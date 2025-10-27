@@ -10,7 +10,9 @@
   </a>
 </h3>
 
-<p align="center">I’m currently learning <strong>full stack skills</strong> at Cubos Academy 🚀</p>
+<p align="center">
+  I’m currently learning <strong>full stack skills</strong> at Cubos Academy 🚀
+</p>
 
 ---
 
@@ -24,29 +26,24 @@
 <img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1sMm1kNHVvcWV1MDB0dnlnMXdjYjR4ZDZxZ2lzanlkZTh1Mnp5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"/>
 
 <h3>🧠 Main languages:</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" style="display:inline-block;margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" style="display:inline-block;margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="display:inline-block;margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" style="display:inline-block;margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="display:inline-block;margin-right:10px;"/>
-</div>
-
-<br>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="margin-right:10px;"/>
+</p>
 
 <h3>⚙️ Other skills:</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" style="display:inline-block;margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" style="display:inline-block;margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" style="display:inline-block;margin-right:10px;"/>
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" style="margin-right:10px;"/>
+</p>
 
 ---
 
 <br clear="both">
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorramondev&theme=monokai" height="150" alt="streak graph"/>
 </div>
@@ -54,7 +51,6 @@
 ---
 
 <h3 align="center">🌐 Connect with me</h3>
-
 <div align="center">
   <a href="https://github.com/igorramondev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
